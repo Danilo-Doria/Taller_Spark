@@ -181,3 +181,11 @@ así que no se multiplican los importes.
 
 Corre en una sola JVM: no hay red entre nodos, tolerancia a fallos ni particionado real, y el tiempo
 de ejecución depende de la máquina, no es un benchmark de clúster.
+
+---
+
+## 👨💻 Author
+
+- GitHub: **[Danilo-Doria](https://github.com/Danilo-Doria)**
+- LinkedIn: **[Danilo Doria Diaz](https://www.linkedin.com/in/danilo-doria-diaz)**
+- Mail: **danilodoria519@gmail.com**
